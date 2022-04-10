@@ -26,6 +26,12 @@ import '../styles/globals.css'
    import Link from "next/link"
     ab link ko use kr lo
 */
+
+/*
+4. custom error page banane ke liye
+      hame 404 file ka name dena hoga
+       404.js
+*/
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }

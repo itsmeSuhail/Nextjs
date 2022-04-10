@@ -1,9 +1,11 @@
 import React from 'react'
+import Home from '../Home'
 
 const B = () => {
-  return (
-    <div>i'm B</div>
-  )
+  return <>
+  <Home/>
+  <h1>B page</h1>
+  </>
 }
 
 export default B

@@ -31,3 +31,16 @@ nav{
   color: white;
   justify-content: center;
 }
+.Error{
+  padding: 10px;
+  background-color: #111;
+  color: white;
+  font-size: 18px;
+  width: 100px;
+}
+.ErrorParent{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

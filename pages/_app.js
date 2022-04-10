@@ -20,6 +20,12 @@ import '../styles/globals.css'
             Dynamic/2
             Dynamic/3
 */
+
+/*
+3. link
+   import Link from "next/link"
+    ab link ko use kr lo
+*/
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }

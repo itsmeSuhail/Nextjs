@@ -1,11 +1,26 @@
 import React from 'react'
-
+import Link from "next/link"
 const Home = () => {
   return <>
- 
- <div>Home</div>
-    <h1>Pro player</h1>
- 
+  <nav>
+     <ul style={{display:"flex"}}>
+        <li>
+           <Link href="/Router/A">A</Link>
+        </li>
+        <li>
+           <Link href="/Router/B">B</Link>
+        </li>
+        <li>
+           <Link href="/Router/C">C</Link>
+        </li>
+        <li>
+           <Link href="/Dynamic/45">DynLinkmic</Link>
+        </li>
+        <li>
+           <Link href="/Dynamic/Route/45">DynLinkmic Route</Link>
+        </li>
+     </ul>
+  </nav>
  </>
 }
 

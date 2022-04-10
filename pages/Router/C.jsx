@@ -1,9 +1,11 @@
 import React from 'react'
+import Home from '../Home'
 
 const C = () => {
-  return (
-    <div>i'm C</div>
-  )
+  return <>
+  <Home/>
+  <h1>C page</h1>
+  </>
 }
 
 export default C

@@ -13,5 +13,8 @@
                dynamic/2
                dynamic/3
                dynamic/4
+3.link
+    ham isme link library use karnege 
+    taki ham routing kr sake
 
 

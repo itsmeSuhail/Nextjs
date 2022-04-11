@@ -37,6 +37,10 @@ import '../styles/globals.css'
        useRouter.push("/")
        ham isko navigation or history ki tarah use kr sakte hai
  */
+/*
+6.Hooks
+   useEffect in nextjs
+*/
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }

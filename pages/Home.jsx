@@ -22,6 +22,9 @@ const Home = () => {
         <li>
            <Link href="/Onclick">Onclick Method</Link>
         </li>
+        <li>
+           <Link href="/Hooks" >Redirect</Link>
+        </li>
      </ul>
   </nav>
  </>

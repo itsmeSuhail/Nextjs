@@ -20,3 +20,6 @@
 4.Custom 404 Error Page
       custom Error Page banane ke liye hame
        404.js file name rakhna hoga
+5.Onclick Events with nextjs
+       useRouter.push("/")
+       ham isko navigation or history ki tarah use kr sakte hai

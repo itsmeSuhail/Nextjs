@@ -19,6 +19,9 @@ const Home = () => {
         <li>
            <Link href="/Dynamic/Route/45">DynLinkmic Route</Link>
         </li>
+        <li>
+           <Link href="/Onclick">Onclick Method</Link>
+        </li>
      </ul>
   </nav>
  </>

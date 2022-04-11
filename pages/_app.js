@@ -32,6 +32,11 @@ import '../styles/globals.css'
       hame 404 file ka name dena hoga
        404.js
 */
+/*
+5.Onclick Events with nextjs
+       useRouter.push("/")
+       ham isko navigation or history ki tarah use kr sakte hai
+ */
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }

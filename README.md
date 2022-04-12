@@ -1,4 +1,4 @@
-img optimism
-images:{
-    domains:["cdn.pixabay.com"]
-  }
+using head
+    <Head>
+      <title>home Page</title>
+  </Head>

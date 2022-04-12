@@ -8,9 +8,14 @@ import Game from './Game'
 
 
 */
+
+/*
+2. inline Css Styling
+    
+ */
 const index = () => {
   return<>
-  <h1>We are going to use Global Css</h1>
+  <h1 style={{textAlign:"center"}}>We are going to use Global Css</h1>
   <Game/>
   </>
 }

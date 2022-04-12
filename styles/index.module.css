@@ -1,0 +1,8 @@
+.Game{
+    display: flex;
+    border: 1px solid orange;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    justify-content: center;
+}

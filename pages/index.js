@@ -1,9 +1,10 @@
 import React from 'react'
-import Home from './Home'
+import Game from './Game'
 
 const index = () => {
   return<>
-  <Home/>
+  <h1>We are going to use Global Css</h1>
+  <Game/>
   </>
 }
 
